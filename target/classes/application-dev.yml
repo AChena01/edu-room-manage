@@ -1,0 +1,13 @@
+#开发环境
+spring:
+  datasource:
+    name: edu-hrm
+    username: hhhh
+    password: G67EeAdZexi82det
+    url: jdbc:mysql://101.200.195.159:3306/hhhh?useUnicode=true&characterEncoding=utf-8&useSSL=false&allowPublicKeyRetrieval=true&allowMultiQueries=true&serverTimezone=UTC
+server:
+  port: 8080
+
+upload:
+  prefix: http://127.0.0.1
+  path: D:\Project-Upload\
